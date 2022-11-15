@@ -67,7 +67,7 @@ export default function App() {
 
 const styles = StyleSheet.create({
   image: {
-    height: 22,
-    width: 22,
+    height: 23,
+    width: 23,
   },
 });
